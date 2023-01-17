@@ -1,1 +1,0 @@
-///genel fonksiyonlar   Burda olacak ama şuam için kullanmadık

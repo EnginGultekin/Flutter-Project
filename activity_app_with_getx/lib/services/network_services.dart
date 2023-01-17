@@ -1,1 +1,0 @@
-/// Bu sayfada servisler - networkler olacak ama kullanmadık
